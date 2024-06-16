@@ -1,0 +1,1 @@
+-keep class org.drinkless.td.libcore.telegram.NativeClient { *; }
